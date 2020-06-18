@@ -159,7 +159,7 @@ ul:not(.menu):not(.sub-menu) li {
 /** CTA **/
 /*********/
 #cta-block {
-  background: linear-gradient(rgba(202, 159, 77, 0.95), rgba(202, 159, 77, 0.95)), url(https://carstenkrokant.github.io/concor-landscaping/wp-content/uploads/2020/01/Concor_Landscaping_Website_Diensten_Large.jpg) !important;
+  background: linear-gradient(rgba(202, 159, 77, 0.95), rgba(202, 159, 77, 0.95)), url(http://localhost:8888/wp-content/uploads/2020/01/Concor_Landscaping_Website_Diensten_Large.jpg) !important;
   background-attachment: fixed !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
@@ -251,11 +251,11 @@ ul:not(.menu):not(.sub-menu) li {
 /***********/
 @font-face {
   font-family: CenturyGothic;
-  src: url(http://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked-child/fonts/CenturyGothicRegular.ttf);
+  src: url(https://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked-child/fonts/CenturyGothicRegular.ttf);
 }
 @font-face {
   font-family: CenturyGothicBold;
-  src: url(http://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked-child/fonts/GOTHICB.TTF);
+  src: url(https://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked-child/fonts/GOTHICB.TTF);
 }
 body, a, li, p, h1, h2, h3, h4, h5, h6 {
   font-family: CenturyGothic, sans-serif;

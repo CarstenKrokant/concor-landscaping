@@ -1074,7 +1074,7 @@ a.comment-reply-link:hover {
 }
 .roll-row .mask {
     z-index:20;
-    background:url(http://carstenkrokant.github.io/concor-landscaping/wp-content/themes/images/mask.png);
+    background:url(https://carstenkrokant.github.io/concor-landscaping/wp-content/themes/images/mask.png);
     -webkit-background-size: 2px 2px;
     -moz-background-size: 2px 2px;
     background-size: 2px 2px;
@@ -1698,7 +1698,7 @@ a.comment-reply-link:hover {
 /* preloading images */
 .owl-item.loading{
   min-height: 150px;
-  background: url(http://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked/loader.gif) no-repeat center center
+  background: url(https://carstenkrokant.github.io/concor-landscaping/wp-content/themes/rocked/loader.gif) no-repeat center center
 }
 /* Counter
 -------------------------------------------------------------- */
