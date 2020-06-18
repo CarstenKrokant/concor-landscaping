@@ -159,7 +159,7 @@ ul:not(.menu):not(.sub-menu) li {
 /** CTA **/
 /*********/
 #cta-block {
-  background: linear-gradient(rgba(202, 159, 77, 0.95), rgba(202, 159, 77, 0.95)), url(http://localhost:8888/wp-content/uploads/2020/01/Concor_Landscaping_Website_Diensten_Large.jpg) !important;
+  background: linear-gradient(rgba(202, 159, 77, 0.95), rgba(202, 159, 77, 0.95)), url(https://carstenkrokant.github.io/concor-landscaping/wp-content/uploads/2020/01/Concor_Landscaping_Website_Diensten_Large.jpg) !important;
   background-attachment: fixed !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
